@@ -81,7 +81,7 @@ A comprehensive research project implementing monocular 3D perception systems fo
 **Tech Stack:** PyTorch, TensorFlow, OpenCV, YOLOv3, Open3D, Python, CUDA
 
 **Links:**
-- 📄 Paper: https://github.com/divyanshupatel17/digital_twin_project/blob/main/Digital-Twin-Final.pdf
+- 📄 Paper: https://github.com/divyanshupatel17/digital_twin_project/blob/main/docs/Digital-Twin-Final.pdf
 - 🔗 GitHub: https://github.com/divyanshupatel17/digital_twin_project
 
 **Tags:** computer-vision, autonomous-vehicles, deep-learning, 3d-perception
@@ -97,7 +97,7 @@ Implements GraphSAGE-based routing algorithms for inter-satellite communication 
 **Tech Stack:** PyTorch Geometric, GraphSAGE, NetworkX, OSMNX, NumPy, Pandas, Python
 
 **Links:**
-- 📄 Technical Note: https://github.com/divyanshupatel17/satroute/blob/main/SatRoute_Technical_Note_Complete.pdf
+- 📄 Technical Note: https://github.com/divyanshupatel17/satroute/blob/main/docs/SatRoute_Technical_Note_Complete.pdf
 - 🔗 GitHub: https://github.com/divyanshupatel17/satroute
 
 **Tags:** graph-neural-networks, satellite-networks, routing-optimization, isro
@@ -129,7 +129,7 @@ A comprehensive research project focused on medical image analysis for leukemia 
 **Tech Stack:** TensorFlow, Keras, EfficientNetV2, ResNet, VGG, OpenCV, Scikit-image, NumPy, Pandas, Scikit-learn
 
 **Links:**
-- 📄 Paper: https://github.com/divyanshupatel17/Leukemia-Diagnosis-EfficientNetV2-vs-CNNs/blob/main/Enhanced_EfficientNetV2S_MultiClass_Leukemia_Comparison_DIVYANSHU_PATEL.pdf
+- 📄 Paper: https://github.com/divyanshupatel17/Leukemia-Diagnosis-EfficientNetV2-vs-CNNs/blob/main/docs/assets/Enhanced_EfficientNetV2S_MultiClass_Leukemia_Comparison_DIVYANSHU_PATEL.pdf
 - 🔗 GitHub: https://github.com/divyanshupatel17/Leukemia-Diagnosis-EfficientNetV2-vs-CNNs
 
 **Tags:** medical-ai, deep-learning, computer-vision, healthcare, classification
@@ -148,7 +148,7 @@ In-depth research paper analyzing India's home and household consumption pattern
 **Tech Stack:** Python, Pandas, NumPy, Tableau, Matplotlib, Seaborn, SciPy, Statsmodels, Prophet, ARIMA, LaTeX
 
 **Links:**
-- 📄 Paper: https://github.com/divyanshupatel17/India-Consumption-Economy-2030-Research-Synthesis/blob/main/Divyanshu_Patel_Team_Indias_Home_and_Household_Consumption_by_2030_SYNTHESIS2026.pdf
+- 📄 Paper: https://github.com/divyanshupatel17/India-Consumption-Economy-2030-Research-Synthesis/blob/main/docs/Divyanshu_Patel_Team_Indias_Home_and_Household_Consumption_by_2030_SYNTHESIS2026.pdf
 - 🔗 GitHub: https://github.com/divyanshupatel17/India-Consumption-Economy-2030-Research-Synthesis
 
 **Tags:** economics, research, india, consumer-behavior, forecasting
@@ -180,7 +180,7 @@ An innovative AI-powered platform designed to democratize access to government w
 **Tech Stack:** React, Next.js, Node.js, Express, TensorFlow, HuggingFace Transformers, BERT, spaCy, MongoDB, PostgreSQL, AWS SageMaker, AWS Lambda, Docker, Kubernetes
 
 **Links:**
-- 📄 Presentation: https://github.com/divyanshupatel17/schemasetu-aws-ai-bharat/blob/main/SchemaSetu_AIforBharat_Presentation.pdf
+- 📄 Presentation: https://github.com/divyanshupatel17/schemasetu-aws-ai-bharat/blob/main/docs/SchemaSetu_AIforBharat_Presentation.pdf
 - 🔗 GitHub: https://github.com/divyanshupatel17/schemasetu-aws-ai-bharat
 
 **Tags:** ai, nlp, government, welfare, accessibility, aws
