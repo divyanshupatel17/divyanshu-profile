@@ -1,0 +1,25 @@
+{
+    "id": "unique-identifier",
+    "name": "Project Name",
+    "title": "Full Project Title",
+    "category": "Products|Research & Engineering|Research & Concepts|Previously Shipped",
+    "status": "Active|Coming Soon|Discontinued",
+    "shortDesc": "Brief description for portfolio display",
+    "longDesc": "Detailed description",
+    "techStack": ["array", "of", "technologies"],
+    "links": {
+      "website": "url or null",
+      "github": "url or null",
+      "playStore": "url or null",
+      "paper": "url or null",
+      "presentation": "url or null"
+    },
+    "metrics": {
+      "users": "number or null",
+      "downloads": "number or null",
+      "rating": "number or null"
+    },
+    "competition": "competition name or null",
+    "featured": "boolean",
+    "tags": ["array", "of", "tags"]
+  }
